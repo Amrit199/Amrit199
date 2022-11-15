@@ -3,7 +3,7 @@
 
 I'm a front-end developer who loves to build and create web applications. Some technologies that I have been using included ReactJS, JavaScript, Tailwind CSS, CSS, SASS, and Bootstrap5.  
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / REACT REDUX / GIT
 
 - 🔭 I’m currently working on Ecommerce web application 
 - 🌱 I’m currently learning typescript and GraphQL 
