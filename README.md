@@ -5,8 +5,8 @@ I'm a front-end developer who loves to build and create web applications. Some t
 
 Skills: REACT / JS / HTML / CSS / REACT REDUX / GIT
 
-- 🔭 I’m currently working on Ecommerce web application 
-- 🌱 I’m currently learning typescript and GraphQL 
+- 🔭 I’m currently working on Dairy application which is full-stack web application
+- 🌱 I’m currently learning Node.js and express.js
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Amrit199)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amrit-tamang-5aa425157//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/amrit.tamang.94/)  
