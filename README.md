@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Amrit Tamang
 #### Frontend Developer
 
-I'm a front-end developer who loves to build and create web applications. Some technologies that I have been using ReactJS, JavaScript, Tailwind CSS, CSS, SASS, and Bootstrap5.  
+I'm a front-end developer who loves to build web applications and websites. Some technologies that I have been using ReactJS, JavaScript, Tailwind CSS, CSS, SASS, and Bootstrap5.  
 
 Skills: REACT / JS / HTML / CSS / REACT REDUX / GIT
 
