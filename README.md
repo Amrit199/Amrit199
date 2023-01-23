@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Amrit Tamang
 #### Frontend Developer
-#### <a href="https://portfolio-amrit199.vercel.app/">Portfolio</a>
+#### <a href="https://portfolio-amrit199.vercel.app/" target="_blank">Portfolio</a>
 
 I'm a front-end developer who loves to build web applications and websites. Some technologies that I have been using ReactJS, JavaScript, Tailwind CSS, CSS, SASS, and Bootstrap5.  
 
