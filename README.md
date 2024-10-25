@@ -13,4 +13,4 @@ Skills: REACT / JS / HTML / CSS / REACT REDUX / GIT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit199&layout=compact)](https://github.com/Amrit199/github-readme-stats)
 
-[![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Amrit199&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Amrit199)
+[![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Amrit199&theme=algolia&show_icons=true)](https://github.com/Amrit199)
